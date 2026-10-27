@@ -210,6 +210,23 @@ The extracted data was checked to verify that the backup contained the expected 
 | Create compressed TAR backup | Passed |
 | Extract and verify backup contents | Passed |
 
+## Project Screenshots
+
+### LVM Storage Configuration
+![LVM Storage](LVM%20Storage.png)
+
+### LVM Snapshot
+![Snapshot](Snapshot.png)
+
+### Snapshot Recovery
+![Recovery](Recovery.png)
+
+### TAR Backup Verification
+![TAR Backup](TAR%20Backup.png)
+
+## Project Report
+[View Project Report](LINUX_DISASTER_REPORT.pdf)
+
 ## Key Learning Outcomes
 
 - Linux disk and partition management.
